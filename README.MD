@@ -64,3 +64,4 @@ Familiarizing myself with Scala language using Leetcode problems, and these are 
 |[733.Flood Fill](https://leetcode.com/problems/flood-fill/description/)|[solution](https://github.com/XD-DENG/leetcode-scala/blob/master/src/733.scala)|Recursion, format string|
 |[781.Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/description/)|[solution](https://github.com/XD-DENG/leetcode-scala/blob/master/src/781.scala)|`collection.toSet`, `math.ceil`, `collection.count`|
 |[884.Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/)|[solution](https://github.com/XD-DENG/leetcode-scala/blob/master/src/884.scala)|`Set Operations`, `Map`|
+|[941.Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[solution](https://github.com/XD-DENG/leetcode-scala/blob/master/src/941.scala)|`if-else`|
